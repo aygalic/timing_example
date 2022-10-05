@@ -1,4 +1,4 @@
-# Install script for directory: /root/lifex_mnt/pyfex/pybind11
+# Install script for directory: /root/pacs_mnt/pyfex/pybind11
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,6 +39,6 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "/u/sw/toolchains/gcc-glibc/11/prefix/bin/objdump")
+  set(CMAKE_OBJDUMP "/u/sw/toolchains/gcc-glibc/11.2.0/prefix/bin/objdump")
 endif()
 
